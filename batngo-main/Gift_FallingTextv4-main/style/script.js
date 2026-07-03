@@ -1,18 +1,16 @@
 const FallingMess = [
   "Anh yêu em",
   "Cảm ơn em đã xuất hiện",
-  "Trái tim anh thuộc về em",
   "Anh yêu em rất nhiều",
   "Nhớ em",
   "Thích em",
-  "Có em là đủ rồi"
-  "Có em là đủ rồi"
+  "Có em là đủ rồi",
   "Em là niềm vui của anh",
-  "Em là tất cả của anh",
   "Anh yêu em vô cùng",
   "Luôn là em.",
-  "Vẫn chọn em.",
+  "Vẫn luôn chọn em.",
    "Cảm ơn vì đã luôn là em",
+   "Ừ… là em đó"
 ];
 const fallingImg = [];
 
